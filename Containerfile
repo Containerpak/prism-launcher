@@ -1,5 +1,5 @@
-FROM ghcr.io/containerpak/mesa:main
+FROM ghcr.io/containerpak/mesa64:main
 
 RUN apt update && \
-    apt install -y --no-install-recommends libopenal-dev prismlauncher && \
+    apt install -y --no-install-recommends libopenal1 prismlauncher && \
     cpak-clean-junk
