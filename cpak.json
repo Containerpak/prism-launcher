@@ -4,7 +4,7 @@
   "name": "Prism Launcher",
   "description": "Manage separate Minecraft instances, mods and accounts.",
   "version": "10.0.5",
-  "image": "ghcr.io/containerpak/prism-launcher@sha256:06ecc48fdfff25b3d2f7430474b9dd8bb36f35e251bb4a25f50e46a5d06c8585",
+  "image": "ghcr.io/containerpak/prism-launcher@sha256:660a95099280d00eed69895e98043a72a1d70958cacf17638b9e375bc5b8b3cb",
   "binaries": [
     "/usr/bin/prismlauncher"
   ],
